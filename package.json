@@ -1,0 +1,14 @@
+{
+  "name": "reporter",
+  "version": "0.0.1",
+  "description": "Report everyday work and get the result. ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony --use_strict --harmony_generators index.js"
+  },
+  "author": "sorpa'as plat <sorpaas@gmail.com> (http://sorpaas.com/)",
+  "license": "MIT",
+  "engines": {
+    "node": "^0.11.9"
+  }
+}
